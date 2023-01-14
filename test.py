@@ -22,3 +22,9 @@ d=complex(34, 33)
 print("type of d is ",type(d))
 e=True
 print("The type of d is ",type(d))
+#List & Tuple
+list1=[8,7,5,3,[-4,5,3,-6],["Apple","Dog","Cat"]]
+print(list1)
+
+tuple1=(("parrot","snake","Tiger"))
+print(tuple1)
