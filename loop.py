@@ -1,29 +1,29 @@
 name="Santo Rasu"
-# print(name[0:10])
-# print(name[:10])
-# print(name[2:10])
-# print(name[:])
-# print(name[:-4])
-# print(name[-9:-1])
-# print(len(name))
+print(name[0:10])
+print(name[:10])
+print(name[2:10])
+print(name[:])
+print(name[:-4])
+print(name[-9:-1])
+print(len(name))
 
-# print(name.upper())
-# print(name.lower())
-# print(name.replace("Rasu","Love"))
-# a="!!Rasu!!!!!"
-# print(a.strip("!"))
-# print(a.rstrip("!"))
+print(name.upper())
+print(name.lower())
+print(name.replace("Rasu","Love"))
+a="!!Rasu!!!!!"
+print(a.strip("!"))
+print(a.rstrip("!"))
 
-# blogHeading="introduction to js"
-# print(blogHeading.capitalize())
+blogHeading="introduction to js"
+print(blogHeading.capitalize())
 
-# str1="Welcome to Diu! Diu have big campus"
-# print(str1.center(40))
-# print(len(str1))
-# print(len(str1.center(40)))
-# print(str1.count("Diu"))
-# print(str1.endswith("!!!"))
-# print(str1.endswith("to",4,10))
+str1="Welcome to Diu! Diu have big campus"
+print(str1.center(40))
+print(len(str1))
+print(len(str1.center(40)))
+print(str1.count("Diu"))
+print(str1.endswith("!!!"))
+print(str1.endswith("to",4,10))
 
 str1 = "He's name is Dan. He is an honest man."
 print(str1.find("Dan"))
