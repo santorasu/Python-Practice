@@ -1,19 +1,19 @@
-# a="45"
-# n="2"
-# print(int(a)+int(n))
+a="45"
+n="2"
+print(int(a)+int(n))
 name=input()
 print(name)
 print(name[0])
 print(name[1])
 print(name[2])
 print(name[3])
-# print("My name is",name)
-# about=input("Enter your Ocupation: ")
-# print("I am a",about)
-# x=input("Enter first number: ")
-# y=input("Enter Second number: ")
-# print(x+y)
-# print(int(x)+int(y))
+print("My name is",name)
+about=input("Enter your Ocupation: ")
+print("I am a",about)
+x=input("Enter first number: ")
+y=input("Enter Second number: ")
+print(x+y)
+print(int(x)+int(y))
 
 apple= '''He said,"I want to 
 eat an apple
