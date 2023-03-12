@@ -21,7 +21,7 @@ print("The type of c is ",type(c))
 d=complex(34, 33)
 print("type of d is ",type(d))
 e=True
-print("The type of d is ",type(d))
+print("The type of d is ",type(e))
 #List & Tuple
 list1=[8,7,5,3,[-4,5,3,-6],["Apple","Dog","Cat"]]
 print(list1)
